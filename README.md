@@ -6,7 +6,7 @@
 Kaggle: [Hotel Reservations Dataset](https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset)
 
 ## Purpose
-The purpose of this project is to analyze hotel reservations with a focus on developing a classification model for reservation cancellations. The output of this analysis will be used by the marketing and customer relations departments to aid in customer retention and overall fulfillment rates. The goal is to optimize revenue and improve customer relations by proactively identifying and managing reservations with likelihood of cancellation. 
+The purpose of this project is to analyze hotel reservations with a focus on developing a classification model for reservation cancellations. The output of this analysis will be used by the marketing and customer relations departments to aid in customer retention and overall fulfillment rates. The goal is to optimize revenue and improve customer relations by proactively identifying and managing reservations with a high likelihood of cancellation. 
 
 ## Background
 The hotel industry operates in a dynamic and highly competitive environment, where revenue and room occupancy rates play a crucial role in profitability. Unpredictable cancellations can significantly impact operational efficiency as management is unable to determine occupancy rates. As a result, staffing and material needs may also be affected. 
