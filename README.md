@@ -2,6 +2,9 @@
 # A graduate-level course project analyzing hotel reservation cancellations
 # Vivian Do, Mirna Philip, Halee Staggs
 
+## Data Source 
+Kaggle: [Hotel Reservations Dataset](https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset)
+
 ## Purpose
 The purpose of this project is to analyze hotel reservations with a focus on developing a classification model for reservation cancellations. The output of this analysis will be used by the marketing and customer relations departments to aid in customer retention and overall fulfillment rates. The goal is to optimize revenue and improve customer relations by proactively identifying and managing reservations with likelihood of cancellation. 
 
